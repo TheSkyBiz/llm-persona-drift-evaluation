@@ -258,6 +258,3 @@ Persona Drift Arena demonstrates that adversarial persona stability is:
 This framework provides a reproducible and quantitative method for evaluating stylistic robustness in open-source LLMs.
 
 ---
-
-Author: Aakash Biswas  
-Focus: Applied ML · LLM Reliability · Robustness Evaluation

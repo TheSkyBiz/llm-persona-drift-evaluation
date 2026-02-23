@@ -170,7 +170,7 @@ The pipeline automatically produces:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/TheSkyBiz/llm-persona-drift-evaluation.git
 cd llm-persona-drift-evaluation
 ```
 
